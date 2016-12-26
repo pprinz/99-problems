@@ -73,3 +73,7 @@ hs_err_pid*
 rx-docker-client.iml
 
 !gradle/wrapper/gradle-wrapper.jar
+/target/
+.classpath
+.project
+org.eclipse.*
